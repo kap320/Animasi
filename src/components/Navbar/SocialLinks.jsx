@@ -13,11 +13,11 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://www.facebook.com/profile.php?id=61553376716857&mibextid=ZbWKwL"
+          href="https://discord.com/invite/kP5mRMq8"
           target="_blank"
           rel="noreferrer"
         >
-          <FaRedditAlien size={22} />
+          <FaDiscord size={22} />
         </a>
       </span>
       <span
@@ -25,11 +25,11 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://discord.com/invite/kP5mRMq8"
+          href="https://www.facebook.com/profile.php?id=61553376716857&mibextid=ZbWKwL"
           target="_blank"
           rel="noreferrer"
         >
-          <FaDiscord size={22} />
+          <FaRedditAlien size={22} />
         </a>
       </span>
       <span
