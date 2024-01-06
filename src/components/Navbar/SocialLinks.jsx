@@ -17,7 +17,7 @@ export default function SocialLinks() {
           target="_blank"
           rel="noreferrer"
         >
-          <Fafacebook size={22} />
+          <FaRedditAlien size={22} />
         </a>
       </span>
       <span
@@ -53,7 +53,7 @@ export default function SocialLinks() {
           target="_blank"
           rel="noreferrer"
         >
-          <Fainstagram size={22} />
+          <FaTwitter size={22} />
         </a>
       </span>
     </div>
