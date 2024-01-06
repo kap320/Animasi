@@ -29,7 +29,7 @@ export default function SocialLinks() {
           target="_blank"
           rel="noreferrer"
         >
-          <Fadiscord size={22} />
+          <FaDiscord size={22} />
         </a>
       </span>
       <span
