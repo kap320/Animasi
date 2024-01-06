@@ -13,11 +13,11 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://discord.com/invite/RRaf5JkkKu"
+          href="https://www.facebook.com/profile.php?id=61553376716857&mibextid=ZbWKwL"
           target="_blank"
           rel="noreferrer"
         >
-          <FaDiscord size={22} />
+          <Fafacebook size={22} />
         </a>
       </span>
       <span
@@ -25,11 +25,11 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://www.reddit.com/r/AniWatchZone/"
+          href="https://discord.com/invite/kP5mRMq8"
           target="_blank"
           rel="noreferrer"
         >
-          <FaRedditAlien size={22} />
+          <Fadiscord size={22} />
         </a>
       </span>
       <span
@@ -37,7 +37,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://t.me/+6pPzElOP7rc4ZGI1"
+          href="https://t.me/rizanotsepuh"
           target="_blank"
           rel="noreferrer"
         >
@@ -49,11 +49,11 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://twitter.com/AniWatchGo"
+          href="https://Instagram/rizaedtz01"
           target="_blank"
           rel="noreferrer"
         >
-          <FaTwitter size={22} />
+          <Fainstagram size={22} />
         </a>
       </span>
     </div>
